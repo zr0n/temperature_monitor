@@ -13,4 +13,7 @@ Display in realtime the CPU temperature in an Arduino LCD Display connected thro
 Open TemperatureDisplay.ino in Arduino IDE and upload the code to your arduino  board
 
 **DotNet Setup**
+
+(Install dotnet 4.8)
+
 Open CPUSerialTemp.csproj in your favorite IDE, build it and run it as administrator
